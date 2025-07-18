@@ -1,0 +1,2 @@
+This is a sample text file.
+You can use it to test the FileReaderExample.
